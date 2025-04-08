@@ -7,9 +7,9 @@
     <li>
         👀 I am interested in acquiring new skills, professional experience and knowledge.
     </li>
-<!--     <li>
-         💻 I am currently learning PHP (Lavarel)
-     </li> -->
+    <li>
+         💻 I am currently leaning Java (Spring Boot)
+     </li>
     <li>
         🔤 Español / English.
     </li>
