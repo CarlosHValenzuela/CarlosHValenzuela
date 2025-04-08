@@ -33,5 +33,5 @@
    <h4>Tools</h4> 
   <img align="center" alt="Vsc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Apache_NetBeans_Logo.svg">
+  <img align="center" alt="NetBeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
  </div>
